@@ -1,0 +1,21 @@
+.color1
+{
+    background-color: brown;
+    float: left;
+    margin-right: "40px";
+    width: 10%;
+}
+.color2
+{
+    background-color: yellow;
+    float: left;
+    margin-right: "30px";
+    width: 20%;
+}
+.color3
+{
+    background-color: pink;
+    float: left;
+    margin-right: "30px";
+    width: 30%;
+}
